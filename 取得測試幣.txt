@@ -1,0 +1,14 @@
+主流的測試網路
+Rposten：使用 Pow 共識機制
+Kovan：使用 PoA (Proof-of-Authority) 共識機制，由 Parity 團隊所建立，僅 Parity 用戶端 (client) 可以使用這個測試網路。
+Rinkeby：使用 PoA 共識機制，由 go-ethereum 團隊所建立。
+取得測試幣
+faucet service 又稱水龍頭，可以透過它來取得測試幣。
+
+ropsten
+https://faucet.ropsten.be/
+https://faucet.metamask.io/
+kovan
+https://github.com/kovan-testnet/faucet
+rinkeby
+https://faucet.rinkeby.io/
